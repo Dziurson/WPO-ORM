@@ -1,0 +1,6 @@
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Release\WPO.dll
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Release\WPO.pdb
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Release\Castle.Core.dll
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Release\Castle.Core.xml
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\obj\Release\WPO.dll
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\obj\Release\WPO.pdb

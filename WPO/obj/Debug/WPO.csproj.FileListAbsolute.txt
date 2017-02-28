@@ -1,0 +1,5 @@
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Debug\WPO.dll
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\bin\Debug\WPO.pdb
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\obj\Debug\WPO.dll
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\obj\Debug\WPO.pdb
+D:\Users\jakub.LENOVO-Y510P\Documents\wzorce-projekt\WPO\WPO\obj\Debug\WPO.csprojResolveAssemblyReference.cache
